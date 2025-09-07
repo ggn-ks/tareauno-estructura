@@ -73,32 +73,32 @@ El programa al procesar los tickets los saca de la cola por lo que no tenemos un
 Si la ID no tiene los '000' solicitados te indica que no es posible; sin embargo, al ingresar más de 12 numeros no pasa nada.
 
 
-
 ## Ejemplos de ejecución 
 
 ### *MENU 1*
-![Mi gif](./videosTarea/menu-1.gif)
+![funcion menu 1](/videosTarea/menu-1.gif)
 
 *para descripción vacía*
-![Mi gif](./videosTarea/menu-1-descripcion-vacia.gif)
+![Mi gif](/videosTarea/menu-1-descripcion-vacia.gif)
 
 *para ID ya existente*
-![Mi gif](./videosTarea/menu-1-ID-ya-existente.gif)
+![Mi gif](/videosTarea/menu-1-ID-ya-existente.gif)
 
 ### *MENU 2*
-![Mi gif](./videosTarea/menu-2.gif)
+![Mi gif](/videosTarea/menu-2.gif)
 
 ### *MENU 3*
-![Mi gif](./videosTarea/menu-3.gif)
+![Mi gif](/videosTarea/menu-3.gif)
 
 ### *MENU 3*
-![Mi gif](./videosTarea/menu-4.gif)
+![Mi gif](/videosTarea/menu-4.gif)
 
 *para ID no encontrada* **opción s**
-![Mi gif](./videosTarea/menu-4-ID-no-encontrado.gif)
+![Mi gif](/tareauno-estructura/videosTarea/menu-4-no-encontrado-n.gif)
 
 *para ID no encontrada* **opción n**
-![Mi gif](./videosTarea/menu-4-no-encontrado.gif)
+![Mi gif](/videosTarea/menu-4-no-encontrado.gif)
 
 ### *MENU 0*
-![Mi gif](./videosTarea/menu-0.gif)
+![Mi gif](/videosTarea/menu-0.gif)
+
