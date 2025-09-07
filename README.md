@@ -80,9 +80,11 @@ Si la ID no tiene los '000' solicitados te indica que no es posible; sin embargo
 ![funcion menu 1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb28yZnQwd3VqMXZvaHg0Z2Ewa2ZscXducWYxNWV4bnN5czh6bTFtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6C2HLZLrVTiVi4b00e/giphy.gif)
 
 ***para descripción vacía***
+
 ![Mi gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZpMmV3ZnJneGZyY3p5Mmh1anJ6dnJ0dWZ3Y3Nyczhqa2F6bmphNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YVmmBnsKpJzxx4gijS/giphy.gif)
 
 ***para ID ya existente***
+
 ![Mi gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlpdGJ4Z29sdnk1ZGRhNXBoYTZhYmw1OGY3cndzYjFuMW9rb3Z6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IUINvTiznJCF30QwC9/giphy.gif)
 
 ### *MENU 2*
@@ -95,14 +97,17 @@ Si la ID no tiene los '000' solicitados te indica que no es posible; sin embargo
 ![Mi gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB2ZXRqYmo3ODh1aDEyMjM5bThtZGlndDU4bjdyZjJlZjIxbzdneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VOvhsFmw3JiCsUirZF/giphy.gif)
 
 ***para ID no encontrada - opción s***
+
 ![Mi gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q1emhwa3FmeDhjdG5hemVyYWxqZWQyZ2JsNnJtOXoyamMxd2psdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cxCRupv57c9ESdBblI/giphy.gif)
 
 ***para ID no encontrada - opción n***
+
 ![Mi gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ0aDd1OG0zY2ZkYW54dHpqOWhnOWp5ano0NWszMTF6bnV4b2NjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfpQDjzzvbM5L1KhIe/giphy.gif)
 
 ### *MENU 0*
 
 ![Mi gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZ0YjE5bzNiMmRhczd2Y2RxNmNrdjdpNTdtMXhvejMwbXp5YnJvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pr5bBIIPBJ6gBor362/giphy.gif)
+
 
 
 
