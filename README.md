@@ -1,7 +1,3 @@
-## Datos estudiante
-- **NOMBRE :** Ignacia Curaqueo González
-- **RUN :** 22.025.464-K
-
 # SISTEMA DE GESTIÓN DE TICKETS SOPORTE TÉCNICO
 
 ### descripción
@@ -107,6 +103,7 @@ Si la ID no tiene los '000' solicitados te indica que no es posible; sin embargo
 ### *MENU 0*
 
 ![Mi gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZ0YjE5bzNiMmRhczd2Y2RxNmNrdjdpNTdtMXhvejMwbXp5YnJvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pr5bBIIPBJ6gBor362/giphy.gif)
+
 
 
 
